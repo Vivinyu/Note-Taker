@@ -47,7 +47,7 @@ Note Taker is an application that allows users to write, save, and delete notes.
 
 ## Deployment
 
-This application is deployed on Heroku. You can access it [here](https://your-heroku-app-url.herokuapp.com).
+This application is deployed on Heroku. You can access it [here](https://note-taker-jdlso-91c657e817a1.herokuapp.com/).
 
 ## License
 
